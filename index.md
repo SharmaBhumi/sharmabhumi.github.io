@@ -17,10 +17,11 @@
 
 ---
 [Real life Python Challenge](https://sharmabhumi.github.io/python-challenge/)
-Python script has been created for analyzing the financial records of a company contained in a csv file.
+<p>Python script has been created for analyzing the financial records of a company contained in a csv file.</p>
 ---
+
 [Data dive with Pandas ](https://sharmabhumi.github.io/pandas_challenge/)
-project analyzes the data of most recent fantasy game Heroes of Pymoli using Pandas and Numpy libraries.
+<p>project analyzes the data of most recent fantasy game Heroes of Pymoli using Pandas and Numpy libraries.</p>
 ---
 
 
