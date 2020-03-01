@@ -2,7 +2,7 @@
 
 ---
 
-### Data Science 
+### Data Science Projects
 
 [US Gun Deaths Analysis for the duration 2012-1017 ](https://github.com/SharmaBhumi/Project-1)
 <img src="images/gun_violence_analysis.PNG?raw=true"/>
@@ -16,14 +16,10 @@
 <img src="images/NLP Text classification.PNG?raw=true"/>
 
 ---
+- [Real life Python Challenge](https://sharmabhumi.github.io/python-challenge/)
 
-### Category Name 2
-
-- [US Gun Deaths Analysis for the duration 2012-1017](https://github.com/SharmaBhumi/Project-1)
-- [NBA data analysis to find if Defense wins Championship](https://github.com/SharmaBhumi/Project-02-NBA-Analysis)
-- [Skills and Jobs Match using NLP ](https://github.com/SharmaBhumi/ML_Skills_Match)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+- [Data dive with Pandas ](https://sharmabhumi.github.io/pandas_challenge/)
 
 ---
 
