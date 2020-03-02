@@ -17,7 +17,7 @@
 
 ---
 [Power of Plots](https://sharmabhumi.github.io/MatPlotLib/)
-<img src="images/NBA Analysis.PNG?raw=true"/>
+<img src="images/matplotlib_captures.PNG?raw=true"/>
 
 ---
 
