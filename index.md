@@ -18,7 +18,8 @@
 ----
 
 [Finding Weather across the world](https://sharmabhumi.github.io/Python_API_Challenge/)
-<img src="images/NLP Text classification.PNG?raw=true"/>
+<p>A Python script is created to visualize the weather of 500+ cities across the world of varying distance from the equator.</p>
+<img src="images/weatherpy_python_api.PNG?raw=true"/>
 
 ---
 [Power of Plots](https://sharmabhumi.github.io/MatPlotLib/)
