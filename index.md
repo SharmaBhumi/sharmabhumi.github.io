@@ -15,6 +15,11 @@
 [Skills and Jobs Match using NLP ](https://github.com/SharmaBhumi/ML_Skills_Match)
 <img src="images/NLP Text classification.PNG?raw=true"/>
 
+----
+
+[Finding Weather across the world](https://sharmabhumi.github.io/Python_API_Challenge/)
+<img src="images/NLP Text classification.PNG?raw=true"/>
+
 ---
 [Power of Plots](https://sharmabhumi.github.io/MatPlotLib/)
 <p> Data is analyzed to show how 4 potential treatments ((Capomulin, Infubinol, Ketapril, and Placebo) for squamous cell carcinoma (SCC) compare in a study conducted for 250 mice treated over a course of 45 days. </p>
