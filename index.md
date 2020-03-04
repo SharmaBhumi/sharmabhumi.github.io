@@ -1,8 +1,6 @@
 ## Portfolio
 
----
-
-### Data Science Projects
+# Data Science Projects
 
 [Skills and Jobs Match using NLP ](https://github.com/SharmaBhumi/ML_Skills_Match)
 <img src="images/NLP Text classification.PNG?raw=true"/>
