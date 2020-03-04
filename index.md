@@ -16,7 +16,10 @@
 <img src="images/gun_violence_analysis.PNG?raw=true"/>
 
 ----
+[SQL and SQLAlchemy](https://sharmabhumi.github.io/sql-challenge/)
+<p>For this project, the tables are created to hold data from Employee CSVs, import the CSVs into a SQL database, and answer questions about the data.</p>
 
+----
 [Finding Weather across the world](https://sharmabhumi.github.io/Python_API_Challenge/)
 <p>A Python script is created to visualize the weather of 500+ cities across the world of varying distance from the equator.</p>
 <img src="images/weatherpy_python_api.PNG?raw=true"/>
