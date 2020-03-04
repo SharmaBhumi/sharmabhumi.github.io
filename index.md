@@ -16,6 +16,10 @@
 <img src="images/gun_violence_analysis.PNG?raw=true"/>
 
 ----
+[SQLAlchemy for Weather Analysis](https://sharmabhumi.github.io/sqlalchemy-challenge/)
+<p>Climate Analysis and Data Exploration is done for the Climate database created using SQLite. Python and SQLAlchemy are used for the purpose.</p>
+
+----
 [SQL and SQLAlchemy](https://sharmabhumi.github.io/sql-challenge/)
 <p>For this project, the tables are created to hold data from Employee CSVs, import the CSVs into a SQL database, and answer questions about the data.</p>
 
