@@ -14,11 +14,11 @@
 <img src="images/gun_violence_analysis.PNG?raw=true"/>
 
 ----
-[SQLAlchemy for Weather Analysis](https://sharmabhumi.github.io/sqlalchemy-challenge/)
+[SQLAlchemy for Weather Analysis](https://sharmabhumi.github.io/sqlalchemy-weather-analysis/)
 <p>Climate Analysis and Data Exploration is done for the Climate database created using SQLite. Python and SQLAlchemy are used for the purpose.</p>
 
 ----
-[SQL and SQLAlchemy](https://sharmabhumi.github.io/sql-challenge/)
+[SQL and SQLAlchemy](https://sharmabhumi.github.io/sql_ERD/)
 <p>For this project, the tables are created to hold data from Employee CSVs, import the CSVs into a SQL database, and answer questions about the data.</p>
 
 ----
@@ -32,7 +32,7 @@
 <img src="images/matplotlib_captures.PNG?raw=true"/>
 
 ---
-[Data dive with Pandas ](https://sharmabhumi.github.io/pandas_challenge/)
+[Data dive with Pandas ](https://sharmabhumi.github.io/fantasy-game-with-pandas/)
 <p>project analyzes the data of most recent fantasy game Heroes of Pymoli using Pandas and Numpy libraries.</p>
 
 ---
